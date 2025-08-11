@@ -111,7 +111,7 @@ Once you are connected to a room, the matching Story campaign may be started
 as long as your version and enabled content mods match your player YAML settings.
 A fresh campaign should be used when connecting to a new room.
 It does not necessarily need to be an entirely fresh save file,
-though using a seprate save file (or backup) is encoruaged.
+though using a separate save file (or backup) is encouraged.
 A Randomizer campaign should never be loaded without Randomizer enabled and connected - 
 doing so may irreversibly break the campaign's save data.
 
